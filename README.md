@@ -27,10 +27,9 @@ Welcome to my GitHub profile. I am a final-year Software Engineering student at 
 * Built an advanced natural language processing pipeline benchmarking a fine-tuned BERT transformer against a custom LSTM model built entirely from scratch.
 
 ### **Pedestrian Tracking System**
-* Engineered an end-to-end computer vision pipeline using Python, YOLOv11, PyTorch, and OpenCV to detect and track unique pedestrian IDs in high-density video sequences by integrating YOLOv11x with the BoTSORT tracking algorithm[cite: 2].
-* Developed a custom evaluation framework from scratch to calculate the Multiple Object Tracking Accuracy (MOTA) metric, utilizing the Hungarian Algorithm for optimal bipartite matching and IoU for spatial validation[cite: 2].
-* Optimized detection throughput across 1,400+ video frames to generate precise per-frame pedestrian counts, achieving a competitive ranking on a Kaggle leaderboard[cite: 2].
-
+* Engineered an end-to-end computer vision pipeline using Python, YOLOv11, PyTorch, and OpenCV to detect and track unique pedestrian IDs in high-density video sequences by integrating YOLOv11x with the BoTSORT tracking algorithm.
+* Developed a custom evaluation framework from scratch to calculate the Multiple Object Tracking Accuracy (MOTA) metric, utilizing the Hungarian Algorithm for optimal bipartite matching and IoU for spatial validation.
+* Optimized detection throughput across 1,400+ video frames to generate precise per-frame pedestrian counts.
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/samy-sabir)
 - [Email](mailto:samy.sabir@mail.mcgill.ca)
